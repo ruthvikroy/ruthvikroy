@@ -47,46 +47,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=700&color=00FF87&background=07090E&center=false&vCenter=true&multiline=false&width=780&height=42&lines=ruthvik%40dev%24+whoami+%E2%86%92+Ruthvik+Roy;ruthvik%40dev%24+skills+%E2%86%92+Python+%7C+C+%7C+AI+%7C+Cloud+%7C+Graphic+Design;ruthvik%40dev%24+experience+%E2%86%92+3+Years+of+Graphic+Design;ruthvik%40dev%24+currently_learning+%E2%86%92+Cloud+Technologies;ruthvik%40dev%24+current_focus+%E2%86%92+AI-Powered+Prototypes;ruthvik%40dev%24+status+%E2%86%92+Always+Building.+Always+Learning." alt="ruthvik@dev$ Animated Linux Terminal Stream" />
 </div>
 
-<!-- GITHUB-COMPATIBLE LINUX ARCADE TERMINAL (ASCII + SIMULATED COMMAND OUTPUT + INTERACTIVE DETAILS) -->
-```ansi
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ ● ● ●   ruthvik@dev: ~ (zsh 5.9 — Linux 6.11.0-arcade x86_64)                 [ONLINE] │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-██████╗ ██╗   ██╗████████╗██╗  ██╗██╗   ██╗██╗██╗  ██╗    ██████╗  ██████╗ ██╗   ██╗
-██╔══██╗██║   ██║╚══██╔══╝██║  ██║██║   ██║██║██║ ██╔╝    ██╔══██╗██╔═══██╗╚██╗ ██╔╝
-██████╔╝██║   ██║   ██║   ███████║██║   ██║██║█████╔╝     ██████╔╝██║   ██║ ╚████╔╝ 
-██╔══██╗██║   ██║   ██║   ██╔══██║╚██╗ ██╔╝██║██╔═██╗     ██╔══██╗██║   ██║  ╚██╔╝  
-██║  ██║╚██████╔╝   ██║   ██║  ██║ ╚████╔╝ ██║██║  ██╗    ██║  ██║╚██████╔╝   ██║   
-╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝    ╚═╝   
-└────────────────────────────────────────────────────────────────────────────────────────┘
 
-ruthvik@dev$ whoami
-> Ruthvik Roy
 
-ruthvik@dev$ skills
-> Python | C | AI | Cloud | Graphic Design
-
-ruthvik@dev$ experience
-> 3 Years of Graphic Design
-
-ruthvik@dev$ currently_learning
-> Cloud Technologies
-
-ruthvik@dev$ current_focus
-> AI-Powered Prototypes
-
-ruthvik@dev$ status
-> Always Building. Always Learning.
-
-ruthvik@dev$ help
-> Displays available commands: whoami | skills | experience | currently_learning | current_focus | status | help
-
-ruthvik@dev$ █
-```
-
-<details>
-<summary><b>⌨️ Click to Run Interactive GitHub Markdown Terminal Inspection (<code>ruthvik@dev$ help</code>)</b></summary>
-<br/>
 
 | Command | Simulated Terminal Output |
 | :--- | :--- |
