@@ -141,14 +141,11 @@ RUTHVIK@DEV:~$ █
 - **Prototyping** — Rapid experimentation from zero-to-one working software prototypes
 
 ### Creative Skills
-<p align="left">
-  <img
-    src="https://cdn.simpleicons.org/canva/00C4CC"
-    alt="Canva"
-    height="48"
-  />
-</p>
-
+<img
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/canva.svg"
+  alt="Canva"
+  height="48"
+/>
 - **Graphic Design** — 3 years of hands-on experience in visual communication, brand systems, and layout design
 - **Visual Design** — High-contrast dark UI systems, typography hierarchy, and retro-futuristic aesthetics
 - **Creative Problem Solving** — Translating complex technical problems into intuitive human experiences
