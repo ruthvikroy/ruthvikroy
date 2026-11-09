@@ -40,12 +40,17 @@
 
 ---
 
-## 🕹️ RUTHVIK@DEV:~$
+## 🕹️ RUTHVIK@DEV:~$ (`ruthvik@dev$`)
 
-<!-- GITHUB-COMPATIBLE ARCADE TERMINAL (ASCII + SIMULATED COMMAND OUTPUT + INTERACTIVE DETAILS) -->
+<div align="center">
+  <!-- LIVE ANIMATED LINUX TERMINAL STREAM FOR GITHUB README -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=700&color=00FF87&background=07090E&center=false&vCenter=true&multiline=false&width=780&height=42&lines=ruthvik%40dev%24+whoami+%E2%86%92+Ruthvik+Roy;ruthvik%40dev%24+skills+%E2%86%92+Python+%7C+C+%7C+AI+%7C+Cloud+%7C+Graphic+Design;ruthvik%40dev%24+experience+%E2%86%92+3+Years+of+Graphic+Design;ruthvik%40dev%24+currently_learning+%E2%86%92+Cloud+Technologies;ruthvik%40dev%24+current_focus+%E2%86%92+AI-Powered+Prototypes;ruthvik%40dev%24+status+%E2%86%92+Always+Building.+Always+Learning." alt="ruthvik@dev$ Animated Linux Terminal Stream" />
+</div>
+
+<!-- GITHUB-COMPATIBLE LINUX ARCADE TERMINAL (ASCII + SIMULATED COMMAND OUTPUT + INTERACTIVE DETAILS) -->
 ```ansi
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ ● ● ●   RUTHVIK@DEV:~$ — RETRO ARCADE COMMAND INTERFACE                      [ONLINE] │
+│ ● ● ●   ruthvik@dev: ~ (zsh 5.9 — Linux 6.11.0-arcade x86_64)                 [ONLINE] │
 ├────────────────────────────────────────────────────────────────────────────────────────┤
 ██████╗ ██╗   ██╗████████╗██╗  ██╗██╗   ██╗██╗██╗  ██╗    ██████╗  ██████╗ ██╗   ██╗
 ██╔══██╗██║   ██║╚══██╔══╝██║  ██║██║   ██║██║██║ ██╔╝    ██╔══██╗██╔═══██╗╚██╗ ██╔╝
@@ -55,32 +60,32 @@
 ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝    ╚═╝   
 └────────────────────────────────────────────────────────────────────────────────────────┘
 
-RUTHVIK@DEV:~$ whoami
+ruthvik@dev$ whoami
 > Ruthvik Roy
 
-RUTHVIK@DEV:~$ skills
+ruthvik@dev$ skills
 > Python | C | AI | Cloud | Graphic Design
 
-RUTHVIK@DEV:~$ experience
+ruthvik@dev$ experience
 > 3 Years of Graphic Design
 
-RUTHVIK@DEV:~$ currently_learning
+ruthvik@dev$ currently_learning
 > Cloud Technologies
 
-RUTHVIK@DEV:~$ current_focus
+ruthvik@dev$ current_focus
 > AI-Powered Prototypes
 
-RUTHVIK@DEV:~$ status
+ruthvik@dev$ status
 > Always Building. Always Learning.
 
-RUTHVIK@DEV:~$ help
+ruthvik@dev$ help
 > Displays available commands: whoami | skills | experience | currently_learning | current_focus | status | help
 
-RUTHVIK@DEV:~$ █
+ruthvik@dev$ █
 ```
 
 <details>
-<summary><b>⌨️ Click to Run Interactive GitHub Markdown Terminal Inspection (<code>RUTHVIK@DEV:~$ help</code>)</b></summary>
+<summary><b>⌨️ Click to Run Interactive GitHub Markdown Terminal Inspection (<code>ruthvik@dev$ help</code>)</b></summary>
 <br/>
 
 | Command | Simulated Terminal Output |
@@ -103,9 +108,9 @@ RUTHVIK@DEV:~$ █
 
 <!-- PLATANE/SNK CONTRIBUTION SNAKE WITH DARK/LIGHT SVG & GIF FALLBACKS -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake.svg" />
-  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake.gif" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.gif" width="100%" />
 </picture>
 
 </div>
@@ -158,13 +163,13 @@ RUTHVIK@DEV:~$ █
 ## 🚀 WHAT I'M WORKING ON
 
 ```yaml
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/current-focus.svg"
-    width="100%"
-    alt="Animated Current Focus Matrix"
-  />
-</div>
+current_focus_matrix:
+  - "Improving Python and C programming skills."
+  - "Exploring cloud infrastructure and services."
+  - "Building AI-powered prototypes."
+  - "Experimenting with creative technology."
+  - "Combining graphic design with software development."
+status: "BUILDING SOMETHING INTERESTING..."
 ```
 
 - **Improving Python and C programming skills** — Strengthening low-level systems mastery alongside rapid high-level Python development.
@@ -182,22 +187,22 @@ RUTHVIK@DEV:~$ █
 <div align="center">
 
 <!-- GITHUB README STATS & MOST USED LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api?username=ruthvikroy&show_icons=true&bg_color=050505&title_color=00FF87&text_color=E4E4E7&icon_color=7C3AED&border_color=1F2937&hide_border=false" height="175" alt="GitHub Stats Card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthvikroy&layout=compact&bg_color=050505&title_color=00FF87&text_color=E4E4E7&border_color=1F2937&hide_border=false" height="175" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=050505&title_color=00FF87&text_color=E4E4E7&icon_color=7C3AED&border_color=1F2937&hide_border=false" height="175" alt="GitHub Stats Card" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=050505&title_color=00FF87&text_color=E4E4E7&border_color=1F2937&hide_border=false" height="175" alt="Most Used Languages" />
 
 <br/><br/>
 
 <!-- GITHUB STREAK STATS -->
-<img src="https://streak-stats.demolab.com?user=ruthvikroy&theme=dark&background=050505&border=1F2937&stroke=1F2937&ring=00FF87&fire=7C3AED&currStreakNum=00FF87&sideNums=E4E4E7&currStreakLabel=00FF87&sideLabels=A1A1AA&dates=71717A" height="175" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&background=050505&border=1F2937&stroke=1F2937&ring=00FF87&fire=7C3AED&currStreakNum=00FF87&sideNums=E4E4E7&currStreakLabel=00FF87&sideLabels=A1A1AA&dates=71717A" height="175" alt="GitHub Streak Stats" />
 
 <br/><br/>
 
 <!-- GITHUB PROFILE SUMMARY CARDS / CONTRIBUTION ACTIVITY -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruthvikroy&theme=transparent" width="100%" alt="Contribution Activity Overview" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=transparent" width="100%" alt="Contribution Activity Overview" />
 
 </div>
 
-
+> **Note:** Replace `YOUR_GITHUB_USERNAME` with your live GitHub username to populate real-time statistics. If an external stats service experiences downtime, click through to [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME) for live repository metrics.
 
 ---
 
