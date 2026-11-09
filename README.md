@@ -142,9 +142,11 @@ RUTHVIK@DEV:~$ █
 
 ### Creative Skills
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=canva&theme=dark" alt="Canva" />
-  </a>
+  <img
+    src="https://cdn.simpleicons.org/canva/00C4CC"
+    alt="Canva"
+    height="48"
+  />
 </p>
 
 - **Graphic Design** — 3 years of hands-on experience in visual communication, brand systems, and layout design
