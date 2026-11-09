@@ -17,10 +17,10 @@
 
 <!-- NAVIGATION ANCHOR LINKS -->
 <p align="center">
-  <a href="#about"><b>ABOUT</b></a> &nbsp;|&nbsp;
-  <a href="#tech-stack"><b>TECH STACK</b></a> &nbsp;|&nbsp;
-  <a href="#projects"><b>PROJECTS</b></a> &nbsp;|&nbsp;
-  <a href="#github-stats"><b>GITHUB STATS</b></a> &nbsp;|&nbsp;
+  <a href="#about"><b>ABOUT</b></a>  | 
+  <a href="#tech-stack"><b>TECH STACK</b></a>  | 
+  <a href="#projects"><b>PROJECTS</b></a>  | 
+  <a href="#github-stats"><b>GITHUB STATS</b></a>  | 
   <a href="#connect"><b>CONNECT</b></a>
 </p>
 
@@ -40,27 +40,12 @@
 
 ---
 
-## 🕹️ RUTHVIK@DEV:~$ (`ruthvik@dev$`)
+## 🕹️ RUTHVIK@DEV:~$
 
-<div align="center">
-
-<!-- FULL ANIMATED LINUX TERMINAL (ASCII BANNER + COMMAND TYPING + OUTPUTS) -->
-<img src="./assets/ruthvik-terminal.svg" width="100%" alt="ruthvik@dev$ Fully Animated Linux Arcade Terminal" />
-
-<br/>
-
-<!-- LIVE ANIMATED LINUX TERMINAL STREAM -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=700&color=00FF87&background=07090E&center=false&vCenter=true&multiline=false&width=780&height=42&lines=ruthvik%40dev%24+whoami+%E2%86%92+Ruthvik+Roy;ruthvik%40dev%24+skills+%E2%86%92+Python+%7C+C+%7C+AI+%7C+Cloud+%7C+Graphic+Design;ruthvik%40dev%24+experience+%E2%86%92+3+Years+of+Graphic+Design;ruthvik%40dev%24+currently_learning+%E2%86%92+Cloud+Technologies;ruthvik%40dev%24+current_focus+%E2%86%92+AI-Powered+Prototypes;ruthvik%40dev%24+status+%E2%86%92+Always+Building.+Always+Learning." alt="ruthvik@dev$ Animated Linux Terminal Stream" />
-
-</div>
-
-<details>
-<summary><b>⌨️ Click to View Raw Text / Interactive Command Table (<code>ruthvik@dev$ help</code>)</b></summary>
-<br/>
-
+<!-- GITHUB-COMPATIBLE ARCADE TERMINAL (ASCII + SIMULATED COMMAND OUTPUT + INTERACTIVE DETAILS) -->
 ```ansi
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ ● ● ●   ruthvik@dev: ~ (zsh 5.9 — Linux 6.11.0-arcade x86_64)                 [ONLINE] │
+│ ● ● ●   RUTHVIK@DEV:~$ — RETRO ARCADE COMMAND INTERFACE                      [ONLINE] │
 ├────────────────────────────────────────────────────────────────────────────────────────┤
 ██████╗ ██╗   ██╗████████╗██╗  ██╗██╗   ██╗██╗██╗  ██╗    ██████╗  ██████╗ ██╗   ██╗
 ██╔══██╗██║   ██║╚══██╔══╝██║  ██║██║   ██║██║██║ ██╔╝    ██╔══██╗██╔═══██╗╚██╗ ██╔╝
@@ -70,34 +55,38 @@
 ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝    ╚═╝   
 └────────────────────────────────────────────────────────────────────────────────────────┘
 
-ruthvik@dev$ whoami
+RUTHVIK@DEV:~$ whoami
 > Ruthvik Roy
 
-ruthvik@dev$ skills
+RUTHVIK@DEV:~$ skills
 > Python | C | AI | Cloud | Graphic Design
 
-ruthvik@dev$ experience
+RUTHVIK@DEV:~$ experience
 > 3 Years of Graphic Design
 
-ruthvik@dev$ currently_learning
+RUTHVIK@DEV:~$ currently_learning
 > Cloud Technologies
 
-ruthvik@dev$ current_focus
+RUTHVIK@DEV:~$ current_focus
 > AI-Powered Prototypes
 
-ruthvik@dev$ status
+RUTHVIK@DEV:~$ status
 > Always Building. Always Learning.
 
-ruthvik@dev$ help
+RUTHVIK@DEV:~$ help
 > Displays available commands: whoami | skills | experience | currently_learning | current_focus | status | help
 
-ruthvik@dev$ █
+RUTHVIK@DEV:~$ █
 ```
+
+<details>
+<summary><b>⌨️ Click to Run Interactive GitHub Markdown Terminal Inspection (<code>RUTHVIK@DEV:~$ help</code>)</b></summary>
+<br/>
 
 | Command | Simulated Terminal Output |
 | :--- | :--- |
 | `whoami` | **Ruthvik Roy** |
-| `skills` | `Python | C | AI | Cloud | Graphic Design` |
+| `skills` | `Python \| C \| AI \| Cloud \| Graphic Design` |
 | `experience` | `3 Years of Graphic Design` |
 | `currently_learning` | `Cloud Technologies` |
 | `current_focus` | `AI-Powered Prototypes` |
@@ -114,9 +103,9 @@ ruthvik@dev$ █
 
 <!-- PLATANE/SNK CONTRIBUTION SNAKE WITH DARK/LIGHT SVG & GIF FALLBACKS -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.gif" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake.svg" />
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake.gif" width="100%" />
 </picture>
 
 </div>
@@ -142,7 +131,7 @@ ruthvik@dev$ █
 ### Currently Exploring
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github&theme=dark" alt="Cloud and AI Ecosystem" />
+    <img src="https://skillicons.dev/icons?i=gcp,git,github&theme=dark" alt="Google Cloud Console, Git, and GitHub" />
   </a>
 </p>
 
@@ -154,7 +143,7 @@ ruthvik@dev$ █
 ### Creative Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr&theme=dark" alt="Creative and Graphic Design Tools" />
+    <img src="https://skillicons.dev/icons?i=canva&theme=dark" alt="Canva" />
   </a>
 </p>
 
@@ -193,22 +182,21 @@ status: "BUILDING SOMETHING INTERESTING..."
 <div align="center">
 
 <!-- GITHUB README STATS & MOST USED LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=050505&title_color=00FF87&text_color=E4E4E7&icon_color=7C3AED&border_color=1F2937&hide_border=false" height="175" alt="GitHub Stats Card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=050505&title_color=00FF87&text_color=E4E4E7&border_color=1F2937&hide_border=false" height="175" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=ruthvikroy&show_icons=true&bg_color=050505&title_color=00FF87&text_color=E4E4E7&icon_color=7C3AED&border_color=1F2937&hide_border=false" height="175" alt="GitHub Stats Card" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthvikroy&layout=compact&bg_color=050505&title_color=00FF87&text_color=E4E4E7&border_color=1F2937&hide_border=false" height="175" alt="Most Used Languages" />
 
 <br/><br/>
 
 <!-- GITHUB STREAK STATS -->
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&background=050505&border=1F2937&stroke=1F2937&ring=00FF87&fire=7C3AED&currStreakNum=00FF87&sideNums=E4E4E7&currStreakLabel=00FF87&sideLabels=A1A1AA&dates=71717A" height="175" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=ruthvikroy&theme=dark&background=050505&border=1F2937&stroke=1F2937&ring=00FF87&fire=7C3AED&currStreakNum=00FF87&sideNums=E4E4E7&currStreakLabel=00FF87&sideLabels=A1A1AA&dates=71717A" height="175" alt="GitHub Streak Stats" />
 
 <br/><br/>
 
 <!-- GITHUB PROFILE SUMMARY CARDS / CONTRIBUTION ACTIVITY -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=transparent" width="100%" alt="Contribution Activity Overview" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruthvikroy&theme=transparent" width="100%" alt="Contribution Activity Overview" />
 
 </div>
 
-> **Note:** Replace `YOUR_GITHUB_USERNAME` with your live GitHub username to populate real-time statistics. If an external stats service experiences downtime, click through to [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME) for live repository metrics.
 
 ---
 
@@ -220,11 +208,9 @@ status: "BUILDING SOMETHING INTERESTING..."
 
 | Platform | Handle / Link Placeholder |
 | :--- | :--- |
-| **GitHub** | [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME) |
-| **LinkedIn** | [https://linkedin.com/in/YOUR_LINKEDIN_HANDLE](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE) |
-| **Email** | [YOUR_EMAIL_ADDRESS](mailto:YOUR_EMAIL_ADDRESS) |
-| **Portfolio** | [https://YOUR_PORTFOLIO_URL](https://YOUR_PORTFOLIO_URL) |
-| **Other Platform** | [https://x.com/YOUR_HANDLE](https://x.com/YOUR_HANDLE) |
+| **GitHub** | [github.com/ruthvikroy](https://github.com/YOUR_GITHUB_USERNAME) |
+| **LinkedIn** | [https://linkedin.com/in/ruthvik-roy-045974446](https://www.linkedin.com/in/ruthvik-roy-045974446/) |
+| **Email** | [ruthvikroy3@gmail.com](mailto:ruthvikroy3@gmail.com) |
 
 </div>
 
@@ -242,8 +228,8 @@ status: "BUILDING SOMETHING INTERESTING..."
 
 **DESIGNED WITH CREATIVITY. BUILT WITH CODE.**
 
-<code>&lt; KEEP BUILDING /&gt;</code>
+<code>< KEEP BUILDING /></code>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0B1914,100:00FF87&height=90&section=footer" width="100%" alt="Arcade Footer Separator" />
 
-</div>
+</div>\
