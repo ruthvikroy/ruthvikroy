@@ -86,7 +86,7 @@ RUTHVIK@DEV:~$ █
 | Command | Simulated Terminal Output |
 | :--- | :--- |
 | `whoami` | **Ruthvik Roy** |
-| `skills` | `Python \| C \| AI \| Cloud \| Graphic Design` |
+| `skills` | `Python | C | AI | Cloud | Graphic Design` |
 | `experience` | `3 Years of Graphic Design` |
 | `currently_learning` | `Cloud Technologies` |
 | `current_focus` | `AI-Powered Prototypes` |
@@ -131,7 +131,7 @@ RUTHVIK@DEV:~$ █
 ### Currently Exploring
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,git,github&theme=dark" alt="Google Cloud Console, Git, and GitHub" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github&theme=dark" alt="Cloud and AI Ecosystem" />
   </a>
 </p>
 
@@ -143,7 +143,7 @@ RUTHVIK@DEV:~$ █
 ### Creative Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=canva&theme=dark" alt="Canva" />
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr&theme=dark" alt="Creative and Graphic Design Tools" />
   </a>
 </p>
 
@@ -198,6 +198,7 @@ status: "BUILDING SOMETHING INTERESTING..."
 </div>
 
 
+
 ---
 
 <a id="connect"></a>
@@ -208,9 +209,11 @@ status: "BUILDING SOMETHING INTERESTING..."
 
 | Platform | Handle / Link Placeholder |
 | :--- | :--- |
-| **GitHub** | [github.com/ruthvikroy](https://github.com/YOUR_GITHUB_USERNAME) |
-| **LinkedIn** | [https://linkedin.com/in/ruthvik-roy-045974446](https://www.linkedin.com/in/ruthvik-roy-045974446/) |
-| **Email** | [ruthvikroy3@gmail.com](mailto:ruthvikroy3@gmail.com) |
+| **GitHub** | [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME) |
+| **LinkedIn** | [https://linkedin.com/in/YOUR_LINKEDIN_HANDLE](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE) |
+| **Email** | [YOUR_EMAIL_ADDRESS](mailto:YOUR_EMAIL_ADDRESS) |
+| **Portfolio** | [https://YOUR_PORTFOLIO_URL](https://YOUR_PORTFOLIO_URL) |
+| **Other Platform** | [https://x.com/YOUR_HANDLE](https://x.com/YOUR_HANDLE) |
 
 </div>
 
