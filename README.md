@@ -158,13 +158,13 @@ RUTHVIK@DEV:~$ █
 ## 🚀 WHAT I'M WORKING ON
 
 ```yaml
-current_focus_matrix:
-  - "Improving Python and C programming skills."
-  - "Exploring cloud infrastructure and services."
-  - "Building AI-powered prototypes."
-  - "Experimenting with creative technology."
-  - "Combining graphic design with software development."
-status: "BUILDING SOMETHING INTERESTING..."
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/current-focus.svg"
+    width="100%"
+    alt="Animated Current Focus Matrix"
+  />
+</div>
 ```
 
 - **Improving Python and C programming skills** — Strengthening low-level systems mastery alongside rapid high-level Python development.
