@@ -1,241 +1,117 @@
-<div align="center">
-
-<!-- PIXEL-ART RETRO ARCADE HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,50:0B1914,100:00FF87&height=220&section=header&text=HEY,%20I'M%20RUTHVIK%20ROY&fontSize=42&fontColor=00FF87&fontAlignY=42&desc=%5B%20BUILDING%20SOMETHING%20INTERESTING...%20%5D&descSize=15&descAlignY=68&stroke=7C3AED&strokeWidth=1" width="100%" alt="HEY, I'M RUTHVIK ROY - BUILDING SOMETHING INTERESTING..." />
-
-<!-- ANIMATED TYPING ROLES -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00FF87&background=05050500&center=true&vCenter=true&multiline=false&width=760&height=45&lines=Python+Developer;C+Programmer;Aspiring+Cloud+Technologist;AI+Prototype+Builder;Graphic+Designer+(3%2B+Years+Exp.);BUILDING+SOMETHING+INTERESTING..." alt="Animated Typing Introduction - Ruthvik Roy" />
-</a>
-
-<br/>
-
-<!-- STATUS INDICATOR -->
-<code>[ STATUS :: BUILDING SOMETHING INTERESTING... ]</code>
-
-<br/><br/>
-
-<!-- NAVIGATION ANCHOR LINKS -->
-<p align="center">
-  <a href="#about"><b>ABOUT</b></a>  | 
-  <a href="#tech-stack"><b>TECH STACK</b></a>  | 
-  <a href="#projects"><b>PROJECTS</b></a>  | 
-  <a href="#github-stats"><b>GITHUB STATS</b></a>  | 
-  <a href="#connect"><b>CONNECT</b></a>
+<div align="center"><img
+  src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,55:0B1914,100:00FF87&height=230&section=header&text=RUTHVIK%20ROY&fontSize=52&fontColor=F4F4F5&fontAlignY=40&desc=CODE%20%E2%80%A2%20INTELLIGENCE%20%E2%80%A2%20CREATIVITY&descSize=15&descColor=00FF87&descAlignY=65&stroke=7C3AED&strokeWidth=1"
+  width="100%"
+  alt="Ruthvik Roy — Code, Intelligence, Creativity"
+/>
+<a href="https://github.com/ruthvikroy">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&width=650&height=35&lines=Python+%2F+C+Developer;Exploring+AI+%26+Cloud+Technologies;Creative+Technologist;Building+something+interesting..."
+    alt="Python and C developer, exploring AI and cloud technologies"
+  />
+</a><p>
+  <a href="https://github.com/ruthvikroy">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/ruthvikroy/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:ruthvikroy3@gmail.com">Email</a>
 </p>
+<sub><code>RUTHVIK@DEV</code>   /   <code>STATUS: BUILDING SOMETHING INTERESTING</code></sub>
+</div>About
+I'm Ruthvik Roy — a developer and creative thinker interested in the intersection of software, artificial intelligence, cloud technologies, and visual design.
 
-</div>
+I work with Python and C, explore AI-powered prototypes and emerging technologies, and bring a design-led perspective shaped by 3+ years of graphic design experience.
 
----
+I enjoy learning how things work, experimenting with ideas, and turning concepts into useful digital experiences.
+At a glance
+Focus	What I'm exploring
+Programming	Python, C, software development
+Artificial intelligence	AI concepts and AI-powered prototypes
+Cloud	Cloud technologies and infrastructure
+Creative technology	Graphic design, visual communication, digital experiences
 
-<a id="about"></a>
 
-## ⚡ ABOUT ME
+Tech & creative toolkit
+Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c&theme=dark" alt="Python and C" />
+</p>Tools and platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gcp&theme=dark" alt="Git, GitHub, and Google Cloud" />
+</p>Creative practice
+<p>
+  <img
+    src="https://cdn.simpleicons.org/canva/00C4CC"
+    height="42"
+    alt="Canva"
+  />
+</p>Graphic design · Visual communication · Layout and composition · Creative problem-solving
 
-> "I'm Ruthvik Roy — a developer and creative thinker passionate about programming, emerging cloud technologies, and AI-powered innovation. I build experimental AI prototypes, explore software development with Python and C, and bring a creative perspective through my 3 years of graphic design experience."
+My toolkit reflects a mix of technologies I use and areas I am actively exploring. I avoid presenting learning interests as expert-level skills.
+Current focus
+RUTHVIK@DEV:~$ focus
 
-- **Identity:** Ruthvik Roy
-- **Core Roles:** Python Developer · C Programmer · Aspiring Cloud Technologist · AI Prototype Builder · Graphic Designer (3 Years Experience)
-- **Creative Edge:** Bridging disciplined software engineering with 3 years of visual & graphic design craft.
-
----
-
-## 🕹️ RUTHVIK@DEV:~$
-
-<!-- GITHUB-COMPATIBLE ARCADE TERMINAL (ASCII + SIMULATED COMMAND OUTPUT + INTERACTIVE DETAILS) -->
-```ansi
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│ ● ● ●   RUTHVIK@DEV:~$ — RETRO ARCADE COMMAND INTERFACE                      [ONLINE] │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-██████╗ ██╗   ██╗████████╗██╗  ██╗██╗   ██╗██╗██╗  ██╗    ██████╗  ██████╗ ██╗   ██╗
-██╔══██╗██║   ██║╚══██╔══╝██║  ██║██║   ██║██║██║ ██╔╝    ██╔══██╗██╔═══██╗╚██╗ ██╔╝
-██████╔╝██║   ██║   ██║   ███████║██║   ██║██║█████╔╝     ██████╔╝██║   ██║ ╚████╔╝ 
-██╔══██╗██║   ██║   ██║   ██╔══██║╚██╗ ██╔╝██║██╔═██╗     ██╔══██╗██║   ██║  ╚██╔╝  
-██║  ██║╚██████╔╝   ██║   ██║  ██║ ╚████╔╝ ██║██║  ██╗    ██║  ██║╚██████╔╝   ██║   
-╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝ ╚═════╝    ╚═╝   
-└────────────────────────────────────────────────────────────────────────────────────────┘
-
-RUTHVIK@DEV:~$ whoami
-> Ruthvik Roy
-
-RUTHVIK@DEV:~$ skills
-> Python | C | AI | Cloud | Graphic Design
-
-RUTHVIK@DEV:~$ experience
-> 3 Years of Graphic Design
-
-RUTHVIK@DEV:~$ currently_learning
-> Cloud Technologies
-
-RUTHVIK@DEV:~$ current_focus
-> AI-Powered Prototypes
+[01] Strengthening Python and C programming foundations
+[02] Exploring cloud technologies and infrastructure
+[03] Experimenting with AI-powered prototypes
+[04] Combining visual design with software development
 
 RUTHVIK@DEV:~$ status
-> Always Building. Always Learning.
+> BUILDING SOMETHING INTERESTING...
+Selected work
+I'm building and exploring projects across programming, AI, and creative technology.
 
-RUTHVIK@DEV:~$ help
-> Displays available commands: whoami | skills | experience | currently_learning | current_focus | status | help
+Explore my repositories →
 
-RUTHVIK@DEV:~$ █
-```
+For the strongest portfolio presentation, pin your most representative repositories on your GitHub profile. This section can be expanded with individual project descriptions, technology stacks, and live demos as those details are available.
+GitHub activity
+<div align="center"><img
+  src="https://github-readme-stats.vercel.app/api?username=ruthvikroy&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF87&text_color=E4E4E7&icon_color=7C3AED"
+  height="165"
+  alt="Ruthvik's GitHub statistics"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthvikroy&layout=compact&hide_border=true&bg_color=050505&title_color=00FF87&text_color=E4E4E7"
+  height="165"
+  alt="Most used programming languages"
+/>
 
-<details>
-<summary><b>⌨️ Click to Run Interactive GitHub Markdown Terminal Inspection (<code>RUTHVIK@DEV:~$ help</code>)</b></summary>
-<br/>
-
-| Command | Simulated Terminal Output |
-| :--- | :--- |
-| `whoami` | **Ruthvik Roy** |
-| `skills` | `Python \| C \| AI \| Cloud \| Graphic Design` |
-| `experience` | `3 Years of Graphic Design` |
-| `currently_learning` | `Cloud Technologies` |
-| `current_focus` | `AI-Powered Prototypes` |
-| `status` | `Always Building. Always Learning.` |
-| `help` | `Displays available commands.` |
-
-</details>
-
----
-## 🐍 GAME OVER? NEVER. KEEP COMMITTING.
-
-<div align="center">
-
-<picture>
+<img
+  src="https://streak-stats.demolab.com?user=ruthvikroy&hide_border=true&background=050505&ring=00FF87&fire=7C3AED&currStreakNum=F4F4F5&sideNums=F4F4F5&currStreakLabel=00FF87&sideLabels=A1A1AA&dates=71717A"
+  height="165"
+  alt="GitHub contribution streak"
+/>
+</div>Contribution graph
+<div align="center"><picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake-dark.gif"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake.gif"
   />
   <img
-    alt="GitHub Contribution Snake Animation"
     src="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake.svg"
     width="100%"
-  />
-</picture>
-
-</div>
----
-
-<a id="tech-stack"></a>
-
-## 🛠️ TECH STACK
-
-### Programming
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c&theme=dark" alt="Python and C" />
-  </a>
-</p>
-
-| Technology | Focus Area |
-| :--- | :--- |
-| **Python** | Automation, AI Prototyping, Scripting & Backend Logic |
-| **C** | Systems Programming, Memory Management & Algorithmic Foundations |
-
-### Currently Exploring
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,git,github&theme=dark" alt="Google Cloud Console, Git, and GitHub" />
-  </a>
-</p>
-
-- **Cloud Technologies** — Cloud architecture, scalable compute, and modern deployment workflows
-- **Artificial Intelligence** — Generative models, neural architectures, and intelligent agents
-- **AI-Powered Applications** — End-to-end functional tools powered by modern LLM and AI pipelines
-- **Prototyping** — Rapid experimentation from zero-to-one working software prototypes
-
-### Creative Skills
-<img
-  src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/canva.svg"
-  alt="Canva"
-  height="48"
+    alt="Animated GitHub contribution snake"
 />
-- **Graphic Design** — 3 years of hands-on experience in visual communication, brand systems, and layout design
-- **Visual Design** — High-contrast dark UI systems, typography hierarchy, and retro-futuristic aesthetics
-- **Creative Problem Solving** — Translating complex technical problems into intuitive human experiences
-
----
-
-<a id="projects"></a>
-
-## 🚀 WHAT I'M WORKING ON
-
-```yaml
-current_focus_matrix:
-  - "Improving Python and C programming skills."
-  - "Exploring cloud infrastructure and services."
-  - "Building AI-powered prototypes."
-  - "Experimenting with creative technology."
-  - "Combining graphic design with software development."
-status: "BUILDING SOMETHING INTERESTING..."
-```
-
-- **Improving Python and C programming skills** — Strengthening low-level systems mastery alongside rapid high-level Python development.
-- **Exploring cloud infrastructure and services** — Designing resilient cloud-native deployments and automated workflows.
-- **Building AI-powered prototypes** — Turning experimental AI concepts into interactive, usable developer tools.
-- **Experimenting with creative technology** — Blending arcade aesthetics, terminal interfaces, and interactive visuals.
-- **Combining graphic design with software development** — Bringing 3 years of graphic design precision to every line of frontend and systems code.
-
----
-
-<a id="github-stats"></a>
-
-## 📊 GITHUB STATISTICS
-
-<div align="center">
-
-<!-- GITHUB README STATS & MOST USED LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api?username=ruthvikroy&show_icons=true&bg_color=050505&title_color=00FF87&text_color=E4E4E7&icon_color=7C3AED&border_color=1F2937&hide_border=false" height="175" alt="GitHub Stats Card" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthvikroy&layout=compact&bg_color=050505&title_color=00FF87&text_color=E4E4E7&border_color=1F2937&hide_border=false" height="175" alt="Most Used Languages" />
-
-<br/><br/>
-
-<!-- GITHUB STREAK STATS -->
-<img src="https://streak-stats.demolab.com?user=ruthvikroy&theme=dark&background=050505&border=1F2937&stroke=1F2937&ring=00FF87&fire=7C3AED&currStreakNum=00FF87&sideNums=E4E4E7&currStreakLabel=00FF87&sideLabels=A1A1AA&dates=71717A" height="175" alt="GitHub Streak Stats" />
-
-<br/><br/>
-
-<!-- GITHUB PROFILE SUMMARY CARDS / CONTRIBUTION ACTIVITY -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruthvikroy&theme=transparent" width="100%" alt="Contribution Activity Overview" />
-
-</div>
-
-
----
-
-<a id="connect"></a>
-
-## 🌐 CONNECT WITH ME
-
-<div align="center">
-
-| Platform | Handle / Link Placeholder |
-| :--- | :--- |
-| **GitHub** | [github.com/ruthvikroy](https://github.com/ruthvikroy) |
-| **LinkedIn** | [https://www.linkedin.com/in/ruthvikroy/](https://www.linkedin.com/in/ruthvikroy/) |
-| **Email** | [ruthvikroy3@gmail.com](mailto:ruthvikroy3@gmail.com) |
-
-</div>
-
----
-
-<div align="center">
-
-```text
-══════════════════════════════════════════════════════════════════════════════
-   ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-   ██  DESIGNED WITH CREATIVITY. BUILT WITH CODE.  //  < KEEP BUILDING />  ██
-   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-══════════════════════════════════════════════════════════════════════════════
-```
-
-**DESIGNED WITH CREATIVITY. BUILT WITH CODE.**
+</picture></div>Connect
+<div align="center"><a href="https://github.com/ruthvikroy">
+  <img src="https://img.shields.io/badge/GitHub-ruthvikroy-0B0F0D?style=for-the-badge&logo=github&logoColor=00FF87" alt="GitHub: ruthvikroy" />
+</a>
+<a href="https://www.linkedin.com/in/ruthvikroy/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0B0F0D?style=for-the-badge&logo=linkedin&logoColor=00FF87" alt="LinkedIn" />
+</a>
+<a href="mailto:ruthvikroy3@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_hello-0B0F0D?style=for-the-badge&logo=gmail&logoColor=00FF87" alt="Email Ruthvik" />
+</a></div><div align="center">
+<sub>DESIGNED WITH CREATIVITY. BUILT WITH CODE.</sub>
 
 <code>< KEEP BUILDING /></code>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0B1914,100:00FF87&height=90&section=footer" width="100%" alt="Arcade Footer Separator" />
-
-</div>\
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,55:0B1914,100:00FF87&height=90&section=footer"
+  width="100%"
+  alt=""
+/>
+</div>
