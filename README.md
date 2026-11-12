@@ -99,13 +99,25 @@ RUTHVIK@DEV:~$ █
 
 ## 🐍 GAME OVER? NEVER. KEEP COMMITTING.
 
+
+## 🐍 GAME OVER? NEVER. KEEP COMMITTING.
+
 <div align="center">
 
-<!-- PLATANE/SNK CONTRIBUTION SNAKE WITH DARK/LIGHT SVG & GIF FALLBACKS -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake.svg" />
-  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake.gif" width="100%" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
 </picture>
 
 </div>
