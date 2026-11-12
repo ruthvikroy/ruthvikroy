@@ -1,117 +1,60 @@
-<div align="center"><img
-  src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,55:0B1914,100:00FF87&height=230&section=header&text=RUTHVIK%20ROY&fontSize=52&fontColor=F4F4F5&fontAlignY=40&desc=CODE%20%E2%80%A2%20INTELLIGENCE%20%E2%80%A2%20CREATIVITY&descSize=15&descColor=00FF87&descAlignY=65&stroke=7C3AED&strokeWidth=1"
-  width="100%"
-  alt="Ruthvik Roy — Code, Intelligence, Creativity"
-/>
-<a href="https://github.com/ruthvikroy">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00FF87&center=true&vCenter=true&width=650&height=35&lines=Python+%2F+C+Developer;Exploring+AI+%26+Cloud+Technologies;Creative+Technologist;Building+something+interesting..."
-    alt="Python and C developer, exploring AI and cloud technologies"
-  />
-</a><p>
-  <a href="https://github.com/ruthvikroy">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/ruthvikroy/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:ruthvikroy3@gmail.com">Email</a>
-</p>
-<sub><code>RUTHVIK@DEV</code>   /   <code>STATUS: BUILDING SOMETHING INTERESTING</code></sub>
-</div>About
-I'm Ruthvik Roy — a developer and creative thinker interested in the intersection of software, artificial intelligence, cloud technologies, and visual design.
-
-I work with Python and C, explore AI-powered prototypes and emerging technologies, and bring a design-led perspective shaped by 3+ years of graphic design experience.
-
-I enjoy learning how things work, experimenting with ideas, and turning concepts into useful digital experiences.
-At a glance
-Focus	What I'm exploring
-Programming	Python, C, software development
-Artificial intelligence	AI concepts and AI-powered prototypes
-Cloud	Cloud technologies and infrastructure
-Creative technology	Graphic design, visual communication, digital experiences
+<!--
+  RUTHVIK ROY — ARCADE MODE
+  Replace the placeholder project links with your actual repositories.
+--><div align="center"><img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:090014,45:17002B,100:071A12&text=RUTHVIK%20ROY&fontColor=7CFFB2&fontSize=58&fontAlignY=42&desc=PLAYER%201%20%E2%80%A2%20DEVELOPER%20%E2%80%A2%20CREATIVE%20TECHNOLOGIST&descSize=13&descAlignY=62&stroke=8B5CF6&strokeWidth=1" width="100%" alt="Ruthvik Roy — Arcade Mode banner" /><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2800&pause=900&color=7CFFB2&center=true&vCenter=true&width=700&height=55&lines=%3E+BOOTING+PLAYER+ONE...;%3E+PYTHON+%2F+C+DEVELOPER;%3E+EXPLORING+AI+%26+CLOUD;%3E+DESIGN.+CODE.+REPEAT." alt="Arcade-style typing introduction" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-7CFFB2?style=for-the-badge&labelColor=12051F" />
+<img src="https://img.shields.io/badge/CLASS-CREATIVE%20DEVELOPER-9B7BFF?style=for-the-badge&labelColor=12051F" />
+<img src="https://img.shields.io/badge/DIFFICULTY-ALWAYS%20LEARNING-FFCB6B?style=for-the-badge&labelColor=12051F" /></div>01 // PLAYER PROFILE
+╔══════════════════════════════════════════════════════════╗
+║                    PLAYER ONE                            ║
+╠══════════════════════════════════════════════════════════╣
+║  NAME       : Ruthvik Roy                                 ║
+║  ROLE       : Python Developer / C Programmer             ║
+║  SIDE QUEST : Graphic Design (3+ years)                   ║
+║  CURRENT XP : AI prototypes, cloud tech, programming      ║
+║  OBJECTIVE  : Build useful things. Make them look good.   ║
+╚══════════════════════════════════════════════════════════╝
+I'm a developer and creative technologist interested in the intersection of software, AI, cloud technologies, and visual design. I enjoy turning ideas into working prototypes and bringing a design-minded approach to the things I build.
+- MAIN QUEST — strengthen my Python and C programming skills
+- CURRENT LEVEL — exploring cloud technologies and AI prototypes
+- SPECIAL ABILITY — 3+ years of graphic design and visual communication
+- NEXT CHECKPOINT — build, experiment, learn, repeat
+02 // SKILL SELECT
+<div align="center">SLOT	SKILLS
+01	<img src="https://skillicons.dev/icons?i=python,c&theme=dark" alt="Python and C" />
+02	<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code" />
+03	<img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Google Cloud" />
+04	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="42" alt="Canva" />
 
 
-Tech & creative toolkit
-Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c&theme=dark" alt="Python and C" />
-</p>Tools and platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gcp&theme=dark" alt="Git, GitHub, and Google Cloud" />
-</p>Creative practice
-<p>
-  <img
-    src="https://cdn.simpleicons.org/canva/00C4CC"
-    height="42"
-    alt="Canva"
-  />
-</p>Graphic design · Visual communication · Layout and composition · Creative problem-solving
+</div>Currently powering up: Python · C · AI prototyping · Cloud fundamentals · Graphic design
+03 // ACTIVE MISSIONS
+[ IN PROGRESS ]  Level up Python and C fundamentals
+[ IN PROGRESS ]  Explore cloud platforms and concepts
+[ IN PROGRESS ]  Experiment with practical AI prototypes
+[ REPEAT       ]  Design, build, test, improve
+04 // GAME LIBRARY
+A few places to explore what I'm building:
+<div align="center"><a href="https://github.com/ruthvikroy?tab=repositories">
+  <img src="https://img.shields.io/badge/OPEN%20REPOSITORY%20SELECT-7CFFB2?style=for-the-badge&logo=github&logoColor=12051F&labelColor=12051F" alt="Open repository list" />
+</a></div>Add individual project cards here as your game library grows. Only feature projects that are public and ready to show.
 
-My toolkit reflects a mix of technologies I use and areas I am actively exploring. I avoid presenting learning interests as expert-level skills.
-Current focus
-RUTHVIK@DEV:~$ focus
-
-[01] Strengthening Python and C programming foundations
-[02] Exploring cloud technologies and infrastructure
-[03] Experimenting with AI-powered prototypes
-[04] Combining visual design with software development
-
-RUTHVIK@DEV:~$ status
-> BUILDING SOMETHING INTERESTING...
-Selected work
-I'm building and exploring projects across programming, AI, and creative technology.
-
-Explore my repositories →
-
-For the strongest portfolio presentation, pin your most representative repositories on your GitHub profile. This section can be expanded with individual project descriptions, technology stacks, and live demos as those details are available.
-GitHub activity
-<div align="center"><img
-  src="https://github-readme-stats.vercel.app/api?username=ruthvikroy&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF87&text_color=E4E4E7&icon_color=7C3AED"
-  height="165"
-  alt="Ruthvik's GitHub statistics"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthvikroy&layout=compact&hide_border=true&bg_color=050505&title_color=00FF87&text_color=E4E4E7"
-  height="165"
-  alt="Most used programming languages"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=ruthvikroy&hide_border=true&background=050505&ring=00FF87&fire=7C3AED&currStreakNum=F4F4F5&sideNums=F4F4F5&currStreakLabel=00FF87&sideLabels=A1A1AA&dates=71717A"
-  height="165"
-  alt="GitHub contribution streak"
-/>
-</div>Contribution graph
+05 // PLAYER STATISTICS
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=ruthvikroy&show_icons=true&hide_border=true&bg_color=0D0618&title_color=7CFFB2&text_color=E9DDFB&icon_color=9B7BFF&ring_color=7CFFB2" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthvikroy&layout=compact&hide_border=true&bg_color=0D0618&title_color=7CFFB2&text_color=E9DDFB" alt="Most used languages" /><img src="https://streak-stats.demolab.com?user=ruthvikroy&hide_border=true&background=0D0618&ring=7CFFB2&fire=FFCB6B&currStreakLabel=7CFFB2&sideLabels=E9DDFB&dates=9B8AAE&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" /></div>06 // CONTRIBUTION ARCADE
 <div align="center"><picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake-dark.gif"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake.gif"
-  />
-  <img
-    src="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake.svg"
-    width="100%"
-    alt="Animated GitHub contribution snake"
-/>
-</picture></div>Connect
-<div align="center"><a href="https://github.com/ruthvikroy">
-  <img src="https://img.shields.io/badge/GitHub-ruthvikroy-0B0F0D?style=for-the-badge&logo=github&logoColor=00FF87" alt="GitHub: ruthvikroy" />
-</a>
-<a href="https://www.linkedin.com/in/ruthvikroy/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0B0F0D?style=for-the-badge&logo=linkedin&logoColor=00FF87" alt="LinkedIn" />
-</a>
-<a href="mailto:ruthvikroy3@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_hello-0B0F0D?style=for-the-badge&logo=gmail&logoColor=00FF87" alt="Email Ruthvik" />
-</a></div><div align="center">
-<sub>DESIGNED WITH CREATIVITY. BUILT WITH CODE.</sub>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated contribution graph snake" src="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake.svg" width="100%" />
+</picture></div>07 // PLAYER TWO?
+<div align="center"><a href="https://www.linkedin.com/in/ruthvikroy/"><img src="https://img.shields.io/badge/LINKEDIN-9B7BFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=12051F" alt="LinkedIn" /></a>
+<a href="mailto:ruthvikroy3@gmail.com"><img src="https://img.shields.io/badge/EMAIL-7CFFB2?style=for-the-badge&logo=gmail&logoColor=12051F&labelColor=12051F" alt="Email" /></a>
+<a href="https://github.com/ruthvikroy"><img src="https://img.shields.io/badge/GITHUB-FFCB6B?style=for-the-badge&logo=github&logoColor=12051F&labelColor=12051F" alt="GitHub" /></a>
 
-<code>< KEEP BUILDING /></code>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,55:0B1914,100:00FF87&height=90&section=footer"
-  width="100%"
-  alt=""
-/>
-</div>
+
+┌───────────────────────────────────────────────┐
+│  THANKS FOR PLAYING                           │
+│  KEEP CREATING  •  KEEP CODING  •  LEVEL UP   │
+└───────────────────────────────────────────────┘
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17002B,100:071A12&height=100&section=footer" width="100%" alt="" /></div>
