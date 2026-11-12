@@ -156,8 +156,57 @@ Whether I am writing foundational algorithms, experimenting with generative AI w
 
 ---
 
+## 04. Featured Projects
 
-## 04. GitHub Analytics
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [Python / AI Prototype — Placeholder](#featured-projects)
+`PROJECT SLOT 01` · `REPLACE WHEN PUBLIC`
+
+*One-sentence summary of your Python or AI prototype, focusing on the problem solved and technical approach.*
+
+**Stack:** `Python` `Generative AI` `Automation`
+
+[**↗ Repository Link (Pending)**](https://github.com/ruthvikroy?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+#### [Systems Programming in C — Placeholder](#featured-projects)
+`PROJECT SLOT 02` · `REPLACE WHEN PUBLIC`
+
+*One-sentence summary of your C programming project, data structures implementation, or systems experiment.*
+
+**Stack:** `C` `Algorithms` `Systems Foundations`
+
+[**↗ Repository Link (Pending)**](https://github.com/ruthvikroy?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<div align="right">
+  <a href="https://github.com/ruthvikroy?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES_%E2%86%92-050505?style=flat-square&logo=github&logoColor=00FF87" alt="Explore all repositories on GitHub" />
+  </a>
+</div>
+
+---
+
+## 05. Current Focus Dashboard
+
+| Vector | Focus Area | Active Objective |
+| :--- | :--- | :--- |
+| **BUILDING** | **AI-Powered Prototypes** | Turning generative AI and LLM capabilities into clean, functional application interfaces. |
+| **LEARNING** | **Cloud Infrastructure** | Exploring Google Cloud services, deployment workflows, and cloud architecture fundamentals. |
+| **EXPLORING** | **Creative Technology** | Combining 3+ years of graphic design discipline with software engineering and interactive web tooling. |
+| **IMPROVING** | **Python & C Foundations** | Strengthening problem-solving, algorithmic thinking, and core programming discipline. |
+
+---
+
+## 06. GitHub Analytics
 
 <div align="center">
 
@@ -194,14 +243,14 @@ Whether I am writing foundational algorithms, experimenting with generative AI w
 
 ---
 
-## 05. Contribution Matrix
+## 07. Contribution Matrix
 
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake.svg" />
-    <img alt="Ruthvik Roy GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake.gif" />
+    <img alt="Ruthvik Roy GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake-dark.gif" width="100%" />
   </picture>
 
 </div>
@@ -222,7 +271,7 @@ Whether I am writing foundational algorithms, experimenting with generative AI w
 
 ---
 
-## 06. Connect & Collaborate
+## 08. Connect & Collaborate
 
 <div align="center">
 
