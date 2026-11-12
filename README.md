@@ -96,10 +96,6 @@ RUTHVIK@DEV:~$ █
 </details>
 
 ---
-
-## 🐍 GAME OVER? NEVER. KEEP COMMITTING.
-
-
 ## 🐍 GAME OVER? NEVER. KEEP COMMITTING.
 
 <div align="center">
@@ -121,7 +117,6 @@ RUTHVIK@DEV:~$ █
 </picture>
 
 </div>
-
 ---
 
 <a id="tech-stack"></a>
