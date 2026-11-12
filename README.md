@@ -207,8 +207,8 @@ status: "BUILDING SOMETHING INTERESTING..."
 
 | Platform | Handle / Link Placeholder |
 | :--- | :--- |
-| **GitHub** | [github.com/ruthvikroy](https://github.com/YOUR_GITHUB_USERNAME) |
-| **LinkedIn** | [https://linkedin.com/in/ruthvik-roy-045974446](https://www.linkedin.com/in/ruthvik-roy-045974446/) |
+| **GitHub** | [github.com/ruthvikroy](https://github.com/ruthvikroy) |
+| **LinkedIn** | [https://www.linkedin.com/in/ruthvikroy/](https://www.linkedin.com/in/ruthvikroy/) |
 | **Email** | [ruthvikroy3@gmail.com](mailto:ruthvikroy3@gmail.com) |
 
 </div>
