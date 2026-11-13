@@ -192,31 +192,6 @@ Whether I am writing foundational algorithms, experimenting with generative AI w
 
 ---
 
-## 07. Contribution Matrix
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake-dark.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake.gif" />
-    <img alt="Ruthvik Roy GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake-dark.gif" width="100%" />
-  </picture>
-
-</div>
-
-<details>
-  <summary><strong>View Alternative Snake Formats (SVG / Animated GIF)</strong></summary>
-  <br />
-  <div align="center">
-    <p><em>Generated automatically every 24 hours via GitHub Actions (<code>Platane/snk@v3</code>) onto the <code>output</code> branch:</em></p>
-    <p>
-      <a href="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake-dark.svg">Dark Theme SVG</a> ·
-      <a href="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake.svg">Light Theme SVG</a> ·
-      <a href="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake-dark.gif">Dark Theme GIF</a> ·
-      <a href="https://raw.githubusercontent.com/ruthvikroy/ruthvikroy/output/github-contribution-grid-snake.gif">Light Theme GIF</a>
-    </p>
-  </div>
-</details>
 
 ---
 
