@@ -3,12 +3,6 @@
 <!-- PIXEL-ART RETRO ARCADE HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,50:0B1914,100:00FF87&height=220&section=header&text=HEY,%20I'M%20RUTHVIK%20ROY&fontSize=42&fontColor=00FF87&fontAlignY=42&desc=%5B%20BUILDING%20SOMETHING%20INTERESTING...%20%5D&descSize=15&descAlignY=68&stroke=7C3AED&strokeWidth=1" width="100%" alt="HEY, I'M RUTHVIK ROY - BUILDING SOMETHING INTERESTING..." />
 
-<!-- ANIMATED TYPING ROLES -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00FF87&background=05050500&center=true&vCenter=true&multiline=false&width=760&height=45&lines=Python+Developer;C+Programmer;Aspiring+Cloud+Technologist;AI+Prototype+Builder;Graphic+Designer+(3%2B+Years+Exp.);BUILDING+SOMETHING+INTERESTING..." alt="Animated Typing Introduction - Ruthvik Roy" />
-</a>
-
-<br/>
 
   <!-- SUBTLE ANIMATED TYPING INTRODUCTION -->
   <a href="https://github.com/ruthvikroy">
