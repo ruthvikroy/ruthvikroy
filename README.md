@@ -192,7 +192,7 @@ Whether I am writing foundational algorithms, experimenting with generative AI w
 
 ---
 
-## 06. Contribution Matrix
+## 07. Contribution Matrix
 
 <div align="center">
 
