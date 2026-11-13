@@ -1,17 +1,14 @@
-<!--
-  RUTHVIK ROY — GITHUB PROFILE ARCHITECTURE
-  Design System: Retro-Futurism × Editorial Minimalism × Advanced Technology
-  Palette: #050505 (Canvas) · #0B0F0D (Surface) · #00FF87 (Primary Accent) · #7C3AED (Secondary Accent)
--->
-
 <div align="center">
 
-  <!-- HERO BANNER (Theme-Aware SVG Header) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:050505,55:0B0F0D,100:110C1D&text=RUTHVIK%20ROY&fontColor=F4F4F5&fontSize=52&fontAlignY=42&desc=BUILDING%20AT%20THE%20INTERSECTION%20OF%20CODE%2C%20INTELLIGENCE%20%26%20CREATIVITY&descSize=13&descAlignY=66&descColor=00FF87&stroke=1F2937&strokeWidth=1" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:050505,55:0B0F0D,100:110C1D&text=RUTHVIK%20ROY&fontColor=F4F4F5&fontSize=52&fontAlignY=42&desc=BUILDING%20AT%20THE%20INTERSECTION%20OF%20CODE%2C%20INTELLIGENCE%20%26%20CREATIVITY&descSize=13&descAlignY=66&descColor=00FF87&stroke=1F2937&strokeWidth=1" />
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:050505,55:0B0F0D,100:110C1D&text=RUTHVIK%20ROY&fontColor=F4F4F5&fontSize=52&fontAlignY=42&desc=BUILDING%20AT%20THE%20INTERSECTION%20OF%20CODE%2C%20INTELLIGENCE%20%26%20CREATIVITY&descSize=13&descAlignY=66&descColor=00FF87&stroke=1F2937&strokeWidth=1" width="100%" alt="Ruthvik Roy — Building at the intersection of Code, Intelligence & Creativity" />
-  </picture>
+<!-- PIXEL-ART RETRO ARCADE HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,50:0B1914,100:00FF87&height=220&section=header&text=HEY,%20I'M%20RUTHVIK%20ROY&fontSize=42&fontColor=00FF87&fontAlignY=42&desc=%5B%20BUILDING%20SOMETHING%20INTERESTING...%20%5D&descSize=15&descAlignY=68&stroke=7C3AED&strokeWidth=1" width="100%" alt="HEY, I'M RUTHVIK ROY - BUILDING SOMETHING INTERESTING..." />
+
+<!-- ANIMATED TYPING ROLES -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=00FF87&background=05050500&center=true&vCenter=true&multiline=false&width=760&height=45&lines=Python+Developer;C+Programmer;Aspiring+Cloud+Technologist;AI+Prototype+Builder;Graphic+Designer+(3%2B+Years+Exp.);BUILDING+SOMETHING+INTERESTING..." alt="Animated Typing Introduction - Ruthvik Roy" />
+</a>
+
+<br/>
 
   <!-- SUBTLE ANIMATED TYPING INTRODUCTION -->
   <a href="https://github.com/ruthvikroy">
