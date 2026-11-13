@@ -147,46 +147,7 @@ Whether I am writing foundational algorithms, experimenting with generative AI w
 
 ---
 
-## 04. Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### [Python / AI Prototype — Placeholder](#featured-projects)
-`PROJECT SLOT 01` · `REPLACE WHEN PUBLIC`
-
-*One-sentence summary of your Python or AI prototype, focusing on the problem solved and technical approach.*
-
-**Stack:** `Python` `Generative AI` `Automation`
-
-[**↗ Repository Link (Pending)**](https://github.com/ruthvikroy?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-#### [Systems Programming in C — Placeholder](#featured-projects)
-`PROJECT SLOT 02` · `REPLACE WHEN PUBLIC`
-
-*One-sentence summary of your C programming project, data structures implementation, or systems experiment.*
-
-**Stack:** `C` `Algorithms` `Systems Foundations`
-
-[**↗ Repository Link (Pending)**](https://github.com/ruthvikroy?tab=repositories)
-
-</td>
-</tr>
-</table>
-
-<div align="right">
-  <a href="https://github.com/ruthvikroy?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES_%E2%86%92-050505?style=flat-square&logo=github&logoColor=00FF87" alt="Explore all repositories on GitHub" />
-  </a>
-</div>
-
----
-
-## 05. Current Focus Dashboard
+## 04. Current Focus Dashboard
 
 | Vector | Focus Area | Active Objective |
 | :--- | :--- | :--- |
@@ -197,7 +158,7 @@ Whether I am writing foundational algorithms, experimenting with generative AI w
 
 ---
 
-## 06. GitHub Analytics
+## 05. GitHub Analytics
 
 <div align="center">
 
@@ -234,7 +195,7 @@ Whether I am writing foundational algorithms, experimenting with generative AI w
 
 ---
 
-## 07. Contribution Matrix
+## 06. Contribution Matrix
 
 <div align="center">
 
@@ -262,7 +223,7 @@ Whether I am writing foundational algorithms, experimenting with generative AI w
 
 ---
 
-## 08. Connect & Collaborate
+## 07. Connect & Collaborate
 
 <div align="center">
 
