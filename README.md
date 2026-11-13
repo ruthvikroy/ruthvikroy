@@ -169,10 +169,7 @@ Whether I am writing foundational algorithms, experimenting with generative AI w
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruthvikroy&theme=github_dark" alt="Ruthvik Roy GitHub Profile Summary Details" height="165" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruthvikroy&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruthvikroy&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ruthvikroy&theme=github_dark" alt="Ruthvik Roy Top Languages by Repository" height="165" />
-  </picture>
+ 
 
 </div>
 
@@ -223,7 +220,7 @@ Whether I am writing foundational algorithms, experimenting with generative AI w
 
 ---
 
-## 07. Connect & Collaborate
+## 06. Connect & Collaborate
 
 <div align="center">
 
